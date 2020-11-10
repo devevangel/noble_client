@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/noble_client/static/css/main.44293084.chunk.css",
+    "main.js": "/noble_client/static/js/main.b5023d20.chunk.js",
+    "main.js.map": "/noble_client/static/js/main.b5023d20.chunk.js.map",
+    "runtime-main.js": "/noble_client/static/js/runtime-main.20e03779.js",
+    "runtime-main.js.map": "/noble_client/static/js/runtime-main.20e03779.js.map",
+    "static/js/2.bb269e18.chunk.js": "/noble_client/static/js/2.bb269e18.chunk.js",
+    "static/js/2.bb269e18.chunk.js.map": "/noble_client/static/js/2.bb269e18.chunk.js.map",
+    "index.html": "/noble_client/index.html",
+    "precache-manifest.37f0cda661b550b934a766a40a212908.js": "/noble_client/precache-manifest.37f0cda661b550b934a766a40a212908.js",
+    "service-worker.js": "/noble_client/service-worker.js",
+    "static/css/main.44293084.chunk.css.map": "/noble_client/static/css/main.44293084.chunk.css.map",
+    "static/js/2.bb269e18.chunk.js.LICENSE.txt": "/noble_client/static/js/2.bb269e18.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20e03779.js",
+    "static/js/2.bb269e18.chunk.js",
+    "static/css/main.44293084.chunk.css",
+    "static/js/main.b5023d20.chunk.js"
+  ]
+}
